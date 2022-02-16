@@ -10,9 +10,9 @@ In my research, I used a dataset from the Kaggle platform. In the dataset for ea
 The data were divided into training and testing in a ratio of 7:3. Linear Regression model and a Decision tree were trained using the Scikit-learn library.
 
 ## Results
-Average Linear Regression error = 1.4%
+Average Linear Regression accuracy = 98.6%
 
-Average Decision Tree error = 1.2%
+Average Decision Tree accuracy = 98.8%
 
 ## Conclusion
 With the use of decision trees and linear regression, I got two models with sufficiently high accuracy.
